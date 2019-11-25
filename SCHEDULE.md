@@ -1,5 +1,5 @@
 # Journal club
-Wed Nov 27 3pm at EBI; South Building; Sawston Room (V2-62)
+Wed Nov 27 3pm at EBI; South Building; Meadow Room
 - Inigo will present ([Lin et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6629722), not the same Lin)
 
 Wed Nov 13 3pm at EBI; South Building; Sawston Room (V2-62)
