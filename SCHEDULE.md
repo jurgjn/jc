@@ -5,7 +5,7 @@
 
 **When & where:**
 - Wed Jan 15 3pm at EBI; South Building; Duxford Room
-  - Danish will present TBD
+  - Danish will present ([Jiang et al., 2019](https://doi.org/10.1038/s41591-018-0136-1))
 - Wed Nov 27 3pm at EBI; South Building; Meadow Room
   - Iñigo will present ([Lin et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6629722), not the same Lin)
 - Wed Nov 13 3pm at EBI; South Building; Sawston Room (V2-62)
