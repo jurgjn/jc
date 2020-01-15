@@ -4,6 +4,8 @@
 **Why:** a lot of people are approaching cancer from a variety of angles: essentiality/drug sensitivity/combination screens, structure, expression signatures, pathway activities, etc. Aim to learn/discuss the state-of-the-art adjacent to your niche-of-choice.
 
 **When & where:**
+- Wed Jan 29 3pm at EBI; South Building; Sawston Room
+  - James will present TBD
 - Wed Jan 15 3pm at EBI; South Building; Duxford Room
   - Danish will present ([Jiang et al., 2018](https://doi.org/10.1038/s41591-018-0136-1))
 - Wed Nov 27 3pm at EBI; South Building; Meadow Room
