@@ -5,7 +5,7 @@
 
 **When & where:**
 - Wed Jan 29 3pm at EBI; South Building; Sawston Room
-  - James will present TBD
+  - James will present ([Kather et al., 2019](https://doi.org/10.1038/s41591-019-0462-y))
 - Wed Jan 15 3pm at EBI; South Building; Duxford Room
   - Danish will present ([Jiang et al., 2018](https://doi.org/10.1038/s41591-018-0136-1))
 - Wed Nov 27 3pm at EBI; South Building; Meadow Room
