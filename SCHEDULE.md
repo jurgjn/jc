@@ -1,11 +1,13 @@
 # Journal club
+
 **What:** a journal club loosely focused on cancer
 
 **Why:** a lot of people are approaching cancer from a variety of angles: essentiality/drug sensitivity/combination screens, structure, expression signatures, pathway activities, etc. Aim to learn/discuss the state-of-the-art adjacent to your niche-of-choice.
 
 **When & where:**
-- Wed Feb 12 3pm at EBI; TBD
-  - Maria will present TBD
+
+- Wed Feb 12 **4pm** at EBI; South Building; Duxford Room
+  - Maria will present ([Cortes-Ciriano _et al._, 2017](https://doi.org/10.1038/ncomms15180))
 - Wed Jan 29 3pm at EBI; South Building; Sawston Room
   - James will present ([Kather et al., 2019](https://doi.org/10.1038/s41591-019-0462-y))
 - Wed Jan 15 3pm at EBI; South Building; Duxford Room
