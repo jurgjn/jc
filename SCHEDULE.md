@@ -6,7 +6,9 @@
 
 **When & where:**
 
-- Wed Feb 12 **4pm** at EBI; South Building; Duxford Room
+- Wed March 4 **4pm** at EBI; South Building; Duxford Room.
+  - Artem will present TBC
+- Wed Feb 12 4pm at EBI; South Building; Duxford Room
   - Maria will present ([Cortes-Ciriano _et al._, 2017](https://doi.org/10.1038/ncomms15180))
 - Wed Jan 29 3pm at EBI; South Building; Sawston Room
   - James will present ([Kather et al., 2019](https://doi.org/10.1038/s41591-019-0462-y))
