@@ -6,6 +6,8 @@
 
 **When & where:**
 
+- TBD at EBI
+  - Jürgen will present ([Tomasetti et al., 2015](https://doi.org/10.1126/science.1260825))
 - Wed **March 4 4pm** at EBI; South Building; Duxford Room
   - Artem will present ([Gerstung et al., 2020](https://doi.org/10.1038/s41586-019-1907-7))
 - Wed Feb 12 4pm at EBI; South Building; Duxford Room
