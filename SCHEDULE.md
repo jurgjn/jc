@@ -6,6 +6,8 @@
 
 **When & where:**
 
+- Wed Sep 16th 3pm on [Google Meet]
+  - James will present TBD
 - Wed May 13th 3pm on [Google Meet](https://meet.google.com/mmx-cucc-qvw)
   - Jürgen will present ([Tomasetti et al., 2015](https://doi.org/10.1126/science.1260825))
 - Wed **March 4 4pm** at EBI; South Building; Duxford Room
