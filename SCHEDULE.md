@@ -6,8 +6,8 @@
 
 **When & where:**
 
-- TBD on [Google Meet]
-  - James will present TBD
+- Fri Jun 18th 4pm on [Google Meet]
+  - James will present ([Wang et al., 2021](http://doi.org/10.1021/acs.jcim.1c00318))
 - Wed May 13th 3pm on [Google Meet](https://meet.google.com/mmx-cucc-qvw)
   - Jürgen will present ([Tomasetti et al., 2015](https://doi.org/10.1126/science.1260825))
 - Wed **March 4 4pm** at EBI; South Building; Duxford Room
